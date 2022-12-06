@@ -1,10 +1,11 @@
 
-<div aligne="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YUNA%20Github&fontSize=90" />
 </div>
 
+<div align="center">
 <h3>👋 hi there</h3> 
-
+</div>
 <div align="center"> 
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
